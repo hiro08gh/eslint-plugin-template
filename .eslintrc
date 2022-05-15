@@ -1,0 +1,7 @@
+{
+  "plugins": ["eslint-plugin-local-rules"],
+
+  "rules": {
+    "sample-rule": 2
+  }
+}
